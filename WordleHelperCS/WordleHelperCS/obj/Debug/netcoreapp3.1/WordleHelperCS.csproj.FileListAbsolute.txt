@@ -1,0 +1,15 @@
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\bin\Debug\netcoreapp3.1\WordleHelperCS.exe
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\bin\Debug\netcoreapp3.1\WordleHelperCS.deps.json
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\bin\Debug\netcoreapp3.1\WordleHelperCS.runtimeconfig.json
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\bin\Debug\netcoreapp3.1\WordleHelperCS.runtimeconfig.dev.json
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\bin\Debug\netcoreapp3.1\WordleHelperCS.dll
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\bin\Debug\netcoreapp3.1\WordleHelperCS.pdb
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\obj\Debug\netcoreapp3.1\WordleHelperCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\obj\Debug\netcoreapp3.1\WordleHelperCS.AssemblyInfoInputs.cache
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\obj\Debug\netcoreapp3.1\WordleHelperCS.AssemblyInfo.cs
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\obj\Debug\netcoreapp3.1\WordleHelperCS.csproj.CoreCompileInputs.cache
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\obj\Debug\netcoreapp3.1\WordleHelperCS.dll
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\obj\Debug\netcoreapp3.1\WordleHelperCS.pdb
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\obj\Debug\netcoreapp3.1\WordleHelperCS.genruntimeconfig.cache
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\obj\Debug\netcoreapp3.1\WordleHelperCS.csproj.AssemblyReference.cache
