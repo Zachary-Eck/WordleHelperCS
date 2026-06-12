@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = WordleHelperCS
-build_property.ProjectDir = C:\Users\Ekku Zakku\source\repos\WordleHelperCS\WordleHelperCS\
+build_property.ProjectDir = C:\Users\Ekku Zakku\Source\Repos\WordleHelperCS_repo\WordleHelperCS\WordleHelperCS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

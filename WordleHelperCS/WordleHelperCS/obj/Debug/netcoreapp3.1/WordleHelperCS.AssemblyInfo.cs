@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordleHelperCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21d98324cdadd6d621e79fbff58da08e9ce2749d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordleHelperCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordleHelperCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
